@@ -1,0 +1,34 @@
+Population of atoms:
+ Atom     1(C)    Population:  5.83202064    NetCharge:  0.16797936
+ Atom     2(C)    Population:  6.16094914    NetCharge: -0.16094914
+ Atom     3(C)    Population:  6.20030980    NetCharge: -0.20030980
+ Atom     4(C)    Population:  5.67203291    NetCharge:  0.32796709
+ Atom     5(C)    Population:  6.05820947    NetCharge: -0.05820947
+ Atom     6(C)    Population:  6.16346226    NetCharge: -0.16346226
+ Atom     7(N)    Population:  7.66460254    NetCharge: -0.66460254
+ Atom     8(C)    Population:  5.58120727    NetCharge:  0.41879273
+ Atom     9(C)    Population:  6.25763760    NetCharge: -0.25763760
+ Atom    10(C)    Population:  6.11628528    NetCharge: -0.11628528
+ Atom    11(C)    Population:  5.64140428    NetCharge:  0.35859572
+ Atom    12(N)    Population:  7.61956988    NetCharge: -0.61956988
+ Atom    13(C)    Population:  5.84675448    NetCharge:  0.15324552
+ Atom    14(C)    Population:  6.21856449    NetCharge: -0.21856449
+ Atom    15(C)    Population:  6.17465883    NetCharge: -0.17465883
+ Atom    16(C)    Population:  6.18966604    NetCharge: -0.18966604
+ Atom    17(C)    Population:  6.48781863    NetCharge: -0.48781863
+ Atom    18(C)    Population:  6.57817919    NetCharge: -0.57817919
+ Atom    19(H)    Population:  0.85251798    NetCharge:  0.14748202
+ Atom    20(H)    Population:  0.84146340    NetCharge:  0.15853660
+ Atom    21(H)    Population:  0.87205477    NetCharge:  0.12794523
+ Atom    22(H)    Population:  0.80128375    NetCharge:  0.19871625
+ Atom    23(H)    Population:  0.85170078    NetCharge:  0.14829922
+ Atom    24(H)    Population:  0.83328079    NetCharge:  0.16671921
+ Atom    25(H)    Population:  0.82919864    NetCharge:  0.17080136
+ Atom    26(H)    Population:  0.85449184    NetCharge:  0.14550816
+ Atom    27(H)    Population:  0.79314320    NetCharge:  0.20685680
+ Atom    28(H)    Population:  0.81411089    NetCharge:  0.18588911
+ Atom    29(H)    Population:  0.79653083    NetCharge:  0.20346917
+ Atom    30(H)    Population:  0.78896139    NetCharge:  0.21103861
+ Atom    31(H)    Population:  0.80532442    NetCharge:  0.19467558
+ Atom    32(H)    Population:  0.80260454    NetCharge:  0.19739546
+ Total NetCharge:    0.00000003
